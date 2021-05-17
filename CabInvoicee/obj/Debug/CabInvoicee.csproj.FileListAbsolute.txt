@@ -1,0 +1,7 @@
+C:\Users\kholi\source\repos\CabInvoicee\CabInvoicee\bin\Debug\CabInvoicee.exe.config
+C:\Users\kholi\source\repos\CabInvoicee\CabInvoicee\bin\Debug\CabInvoicee.exe
+C:\Users\kholi\source\repos\CabInvoicee\CabInvoicee\bin\Debug\CabInvoicee.pdb
+C:\Users\kholi\source\repos\CabInvoicee\CabInvoicee\obj\Debug\CabInvoicee.csprojAssemblyReference.cache
+C:\Users\kholi\source\repos\CabInvoicee\CabInvoicee\obj\Debug\CabInvoicee.csproj.CoreCompileInputs.cache
+C:\Users\kholi\source\repos\CabInvoicee\CabInvoicee\obj\Debug\CabInvoicee.exe
+C:\Users\kholi\source\repos\CabInvoicee\CabInvoicee\obj\Debug\CabInvoicee.pdb
